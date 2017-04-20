@@ -3,9 +3,9 @@
 
  `npm i react-copy-clipboard`
 
-###usage
+ ### usage
 
-###install
+ ### install
 `npm install react-bootstrap-switch`
 
 ```
@@ -21,7 +21,7 @@ render: function() {
 
 
 
-###how to use my demo 
+ ### how to use my demo 
 
 
 1.`git clone  git@github.com:qmm-g-Excellent/react-bootstrap-switch.git`
