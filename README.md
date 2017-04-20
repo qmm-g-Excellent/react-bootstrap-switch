@@ -2,6 +2,7 @@
  
 
  `npm i react-copy-clipboard`
+
 ###usage
 
 ###install
