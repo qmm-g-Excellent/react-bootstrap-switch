@@ -23,15 +23,14 @@ render: function() {
 
  ### how to use my demo 
 
+ 1.`git clone  git@github.com:qmm-g-Excellent/react-bootstrap-switch.git`
 
-1.`git clone  git@github.com:qmm-g-Excellent/react-bootstrap-switch.git`
+ 2. `cd react-bootstrap-switch`
 
-2. `cd react-bootstrap-switch`
+ 3.　`npm i`
 
-3.　`npm i`
+ 4. `npm run wpw`
 
-4. `npm run wpw`
+ 5. `npm start`
 
-5. `npm start`
-
-6. 访问：`localhost:3000`
+ 6. 访问：`localhost:3000`
