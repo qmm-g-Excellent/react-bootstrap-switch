@@ -34,3 +34,10 @@ render: function() {
  5. `npm start`
 
  6. 访问：`localhost:3000`
+<<<<<<< HEAD
+=======
+
+内容二
+内容三
+
+>>>>>>> add three
